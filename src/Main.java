@@ -16,35 +16,6 @@ public class Main {
         
         Narnia.abrir();
         
-        Narnia.avançpag();
-        Narnia.avançpag();
-        Narnia.avançpag();
-        Narnia.avançpag();
-        Narnia.avançpag();
-        
-        Narnia.folhear();
-        Narnia.folhear();
-        Narnia.folhear();
-        Narnia.folhear();
-        Narnia.folhear();
-        Narnia.folhear();
-        Narnia.folhear();
-        Narnia.folhear();
-        Narnia.folhear();
-      
-        Narnia.avançpag();
-        Narnia.avançpag();
-        Narnia.avançpag();
-        Narnia.avançpag();
-        Narnia.avançpag();
-        Narnia.avançpag();
-
-        
-        Narnia.voltarpag();
-        Narnia.voltarpag();
-        Narnia.voltarpag();
-        Narnia.voltarpag();
-        Narnia.voltarpag();
         Narnia.folhear();
 
         Narnia.fechar();
